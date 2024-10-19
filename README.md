@@ -32,8 +32,8 @@ You can select a company and your desired positions to see the requirements.
 
 ## Knowledge Base
 
-![image-20241019235200540](README.assets/image-20241019235200540.png)
+![image-20241019235200540](img/image-20241019235200540.png)
 
 ## Mock Interview
 
-![image-20241019235213045](README.assets/image-20241019235213045.png)
+![image-20241019235213045](img/image-20241019235213045.png)
